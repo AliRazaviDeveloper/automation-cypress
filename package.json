@@ -1,0 +1,24 @@
+{
+  "name": "automationcamp-cypress",
+  "version": "1.0.0",
+  "description": "Cypress Learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "AliRazavi1998",
+  "license": "ISC",
+
+  "devDependencies": {
+    "cypress": "^12.2.0",
+    "cypress-iframe": "^1.0.1"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.7.0",
+    "package.json": "^2.0.1"
+  }
+}
